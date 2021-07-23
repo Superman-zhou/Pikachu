@@ -1,4 +1,4 @@
-import string from "./css";
+import string from "./css.js";
 let n = 1
 const run = ()=>{
     demo.innerText = string.substr(0,n)
